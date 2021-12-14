@@ -1,0 +1,14 @@
+C:\Users\mvarasteanu\source\repos\LinqLab\LinqLab\bin\Debug\netcoreapp3.1\LinqLab.exe
+C:\Users\mvarasteanu\source\repos\LinqLab\LinqLab\bin\Debug\netcoreapp3.1\LinqLab.deps.json
+C:\Users\mvarasteanu\source\repos\LinqLab\LinqLab\bin\Debug\netcoreapp3.1\LinqLab.runtimeconfig.json
+C:\Users\mvarasteanu\source\repos\LinqLab\LinqLab\bin\Debug\netcoreapp3.1\LinqLab.runtimeconfig.dev.json
+C:\Users\mvarasteanu\source\repos\LinqLab\LinqLab\bin\Debug\netcoreapp3.1\LinqLab.dll
+C:\Users\mvarasteanu\source\repos\LinqLab\LinqLab\bin\Debug\netcoreapp3.1\LinqLab.pdb
+C:\Users\mvarasteanu\source\repos\LinqLab\LinqLab\obj\Debug\netcoreapp3.1\LinqLab.csproj.AssemblyReference.cache
+C:\Users\mvarasteanu\source\repos\LinqLab\LinqLab\obj\Debug\netcoreapp3.1\LinqLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mvarasteanu\source\repos\LinqLab\LinqLab\obj\Debug\netcoreapp3.1\LinqLab.AssemblyInfoInputs.cache
+C:\Users\mvarasteanu\source\repos\LinqLab\LinqLab\obj\Debug\netcoreapp3.1\LinqLab.AssemblyInfo.cs
+C:\Users\mvarasteanu\source\repos\LinqLab\LinqLab\obj\Debug\netcoreapp3.1\LinqLab.csproj.CoreCompileInputs.cache
+C:\Users\mvarasteanu\source\repos\LinqLab\LinqLab\obj\Debug\netcoreapp3.1\LinqLab.dll
+C:\Users\mvarasteanu\source\repos\LinqLab\LinqLab\obj\Debug\netcoreapp3.1\LinqLab.pdb
+C:\Users\mvarasteanu\source\repos\LinqLab\LinqLab\obj\Debug\netcoreapp3.1\LinqLab.genruntimeconfig.cache
